@@ -21,7 +21,7 @@
       
      
       @include('home.footer')
-      <!-- copyright section start -->
+         {{-- <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
             <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free html  Templates</a></p>
@@ -39,6 +39,6 @@
       <script src="js/custom.js"></script>
       <!-- javascript --> 
       <script src="js/owl.carousel.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>    
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>  --}}
    </body>
 </html>
